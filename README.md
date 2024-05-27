@@ -3,7 +3,7 @@
 en la presente actividad se necesito la creacion de producto que ha estado constantemente evolucionando con el plantamiento del problema
 este codigo, arquitectura, proyecto tiene el fin de simular un software para la atencion de compra de celulares, por lo cual lo unico que en principio se necesita ejecutar es el "**main.py**" 
 la cual ejecuta una interfaz de tipo consola en la cual puede interactuar, dando respuesta del tipo numerico (1,2,3), y completar los campos con Strings como se observa en la captura: 
-![Ejemplo](https://postimg.cc/hJ7bhVMx)
+![Ejemplo](https://ibb.co/Bnt2gRR)
 
 
 
@@ -27,7 +27,7 @@ utilizando el siguiente comando:
 git clone <url del proyecto>
 ``` 
 para ambos cosos usted hara el uso del despliege de **Code** por lo que le dejamos una imagen de referencia
-![img de referencia](https://postimg.cc/jw06fCk1)
+![img de referencia](https://ibb.co/BHhmwyS)
 
 luego tengra que descargar la version de sqlite3 para python usando el comando pip 
 ```
